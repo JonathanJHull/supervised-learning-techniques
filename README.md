@@ -4,7 +4,7 @@
 
 ### Install
 
-This project requires **Python 2.7** and the following Python libraries installed:
+This project requires **Python 2.7** and the following Python libraries installed: (python 3.0 should work with minor changes to print statements)
 
 - [NumPy](http://www.numpy.org/)
 - [Pandas](http://pandas.pydata.org)
